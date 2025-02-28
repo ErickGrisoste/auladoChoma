@@ -1,2 +1,6 @@
 # auladoChoma
-aula de github
+
+Instalar o github desktop
+fetch
+
+enviar um push
